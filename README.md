@@ -4,9 +4,7 @@ AR project using React and  [MindAR](https://github.com/hiukim/mind-ar-js)
 
 The react component is inside `src/MindARViewer`. Everything else are created from `create-react-app`, and they are independent. 
 
-# Screenshot
-|![alt text](https://github.com/hiukim/mind-ar-js-react/blob/master/screenshot.png?raw=true)|
-|-
+
 
 # It demonstrates:
 
