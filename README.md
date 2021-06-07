@@ -1,2 +1,20 @@
-# reactJS for mindAR
- Augmented reality using React component
+# React example with MindAR 
+
+AR project using React and  [MindAR](https://github.com/hiukim/mind-ar-js) 
+
+The react component is inside `src/MindARViewer`. Everything else are created from `create-react-app`, and they are independent. 
+
+# Screenshot
+|![alt text](https://github.com/hiukim/mind-ar-js-react/blob/master/screenshot.png?raw=true)|
+|-
+
+# It demonstrates:
+
+1. how to import MindAR as a npm package
+2. how to create a React component for MindAR
+
+# To run
+```
+> npm install
+> npm run start
+```
